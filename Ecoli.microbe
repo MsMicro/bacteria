@@ -1,0 +1,9 @@
+import bacteria.SingleCell.*;
+
+public class Ecoli{
+
+   public Ecoli(){
+   
+   }
+   
+}
